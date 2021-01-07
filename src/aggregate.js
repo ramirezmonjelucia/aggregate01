@@ -26,10 +26,7 @@ db.ventas.aggregate( [
                 "Nespresso",
                 "Dolce Gusto",
                 "Cecotec",
-                "Nespresso",
-                "Cecotec",
-                "Nespresso",
-                "Nespresso"
+               
         ]
 }
 {
@@ -37,7 +34,7 @@ db.ventas.aggregate( [
         "Marcas" : [
                 "Nespresso",
                 "Dolce Gusto",
-                "Nespresso"
+               
         ]
 }*/
 
